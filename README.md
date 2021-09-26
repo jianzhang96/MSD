@@ -1,4 +1,4 @@
-# MSSDD
+# MSD
 Mobile phone screen surface defect segmentation dataset.<br/>
 This dataset contains 3 types of surface defects: Oil, Scratch and Stain. It consists of 1200 images and 400 images for each defects. The defects are artificially generated. The images are collected by industrial camera and the resolution is 1920*1080. The dataset is divided into train:val:test=6:2:2. The dataset format is PASCAL VOC.<br/>
 The dataset is made and presented by Open Lab on Human Robot Interaction, Peking University. <br/>
