@@ -4,6 +4,6 @@ This dataset contains 3 types of surface defects: Oil, Scratch and Stain. It con
 The dataset is made and presented by Open Lab on Human Robot Interaction, Peking University. <br/>
 **Download** <br/>
 MSD (Google Drive) <br/>
-[Visualiztion.zip(79.0MB)](https://drive.google.com/file/d/1XcZynrTgl3B8wQif2eAKoZxc8A-R06Mq/view?usp=sharing) for visualization.<br/>
+[Visualiztion.zip (79.0MB)](https://drive.google.com/file/d/1XcZynrTgl3B8wQif2eAKoZxc8A-R06Mq/view?usp=sharing) for visualization.<br/>
 <img src="./images/camera.jpg" width="30%" height="30%">
 <img src="./images/samples.png" width="90%" height="90%">
