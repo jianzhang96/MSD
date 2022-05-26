@@ -12,6 +12,9 @@ Samples<br/>
 ## Download
 [MSD.zip](https://1drv.ms/u/s!AhqlXalcO8TlgRKyInEuzzgqRyX_?e=PGrti1) (1.57GB, OneDrive) <br/>
 [Visualiztion.zip](https://1drv.ms/u/s!AhqlXalcO8TlfDDVBBg32DIno0U?e=5vP1Pe) (79.0MB, OneDrive) for visualization.<br/>
+## Unsupervised Version
+We follow the unsupervised setting of MVTec AD and modify our dataset to unsupervised one named **MSD-US** (UnSupervised), only using normal data in the training stage. We provide 20 extra non-defective images for training and the original MSD data is used for test.<br/>
+[MSD-US.zip](https://1drv.ms/u/s!Ao8h0xonX6XKaws6p4WFYG2cHsA?e=QXfNbN) (1.61GB, OneDrive) <br/>
 ## Citation
 If you find this work is helpful in your research, please cite:
 ````
