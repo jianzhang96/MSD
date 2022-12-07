@@ -1,7 +1,7 @@
 # MSD
 Mobile phone screen surface defect segmentation dataset.<br/>
 This dataset contains 3 types of surface defects: Oil, Scratch and Stain. It consists of 1200 images and 400 images for each defects. The defects are made by ourselves. The images are collected by industrial camera and the resolution is 1920×1080. The dataset is randomly divided into train:val:test=6:2:2. The dataset format is PASCAL VOC.<br/>
-The dataset is made and presented by Open Lab on Human Robot Interaction, Peking University. <br/>
+The dataset is made and presented by Open Lab on Human Robot Interaction (HRI), Peking University. <br/>
 
 Image Capture<br/>
 <img src="./images/camera.jpg" width="30%" height="30%">
@@ -12,9 +12,8 @@ Samples<br/>
 ## Download
 [MSD.zip](https://1drv.ms/u/s!AhqlXalcO8TlgRKyInEuzzgqRyX_?e=PGrti1) (1.57GB, OneDrive) <br/>
 [Visualiztion.zip](https://1drv.ms/u/s!AhqlXalcO8TlfDDVBBg32DIno0U?e=5vP1Pe) (79.0MB, OneDrive) for visualization.<br/>
-## Unsupervised Version
-We follow the unsupervised setting of MVTec AD and modify our dataset to unsupervised one named **MSD-US** (UnSupervised), only using normal data in the training stage. We provide 20 extra non-defective images for training and the original MSD data is used for test.<br/>
-[MSD-US.zip](https://1drv.ms/u/s!Ao8h0xonX6XKaws6p4WFYG2cHsA?e=QXfNbN) (1.61GB, OneDrive) <br/>
+
+We also provide 20 extra non-defective images ([good.zip](https://1drv.ms/u/s!Ao8h0xonX6XKcJ7zk0I80T6Bgis?e=9IrRaH), 27.7MB) which can be used for unsupervised setting.<br/>
 ## Citation
 If you find this work is helpful in your research, please cite:
 ````
@@ -28,6 +27,7 @@ If you find this work is helpful in your research, please cite:
 }
 ````
 ## Related work
+**VisA** ([repo](https://github.com/amazon-science/spot-diff))<br/>
 **MVTec AD** ([website](https://www.mvtec.com/company/research/datasets), [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Bergmann_MVTec_AD_--_A_Comprehensive_Real-World_Dataset_for_Unsupervised_Anomaly_CVPR_2019_paper.pdf))<br/>
 **DAGM** ([website](https://conferences.mpi-inf.mpg.de/dagm/2007/prizes.html))<br/>
 **NEU surface defect database** ([website](http://faculty.neu.edu.cn/songkechen/zh_CN/zhym/263269/list/index.htm))
