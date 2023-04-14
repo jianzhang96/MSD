@@ -10,8 +10,10 @@ Samples<br/>
 <img src="./images/samples.png" width="90%" height="90%">
 
 ## Download
-[MSD.zip](https://1drv.ms/u/s!AhqlXalcO8TlgRKyInEuzzgqRyX_?e=PGrti1) (1.57GB, OneDrive) <br/>
-[Visualiztion.zip](https://1drv.ms/u/s!AhqlXalcO8TlfDDVBBg32DIno0U?e=5vP1Pe) (79.0MB, OneDrive) for visualization.<br/>
+||||
+| ------ | ------ | ------ |
+| MSD.zip (1.57GB) | [OneDrive](https://1drv.ms/u/s!Ao8h0xonX6XKa5HKfEqXQHr7qm4?e=STifJf) | [Baidu Disk](https://pan.baidu.com/s/13sgK92DcmAbj03HY7kkCPQ?pwd=02e8)|
+| Visualiztion.zip (79.0MB) | [OneDrive](https://1drv.ms/u/s!Ao8h0xonX6XKcDD3wJjyvJzl_sE?e=yriUQ9) | [Baidu Disk](https://pan.baidu.com/s/107RYurRo_vS9rC46BuVmOQ?pwd=tc2v) |
 
 We also provide 20 extra non-defective images ([good.zip](https://1drv.ms/u/s!Ao8h0xonX6XKcJ7zk0I80T6Bgis?e=9IrRaH), 27.7MB) which can be used for unsupervised setting.<br/>
 ## Citation
