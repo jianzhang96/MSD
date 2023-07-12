@@ -30,6 +30,8 @@ If you find this work is helpful in your research, please cite:
 ````
 ## Related work
 **VisA** ([repo](https://github.com/amazon-science/spot-diff))<br/>
+**GoodsAD** ([repo](https://github.com/jianzhang96/GoodsAD))<br/>
 **MVTec AD** ([website](https://www.mvtec.com/company/research/datasets), [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Bergmann_MVTec_AD_--_A_Comprehensive_Real-World_Dataset_for_Unsupervised_Anomaly_CVPR_2019_paper.pdf))<br/>
+**MPDD** ([paper](https://arxiv.org/pdf/2104.10036))<br/>
 **DAGM** ([website](https://conferences.mpi-inf.mpg.de/dagm/2007/prizes.html))<br/>
 **NEU surface defect database** ([website](http://faculty.neu.edu.cn/songkechen/zh_CN/zhym/263269/list/index.htm))
