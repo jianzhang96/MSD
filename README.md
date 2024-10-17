@@ -10,12 +10,15 @@ Samples<br/>
 <img src="./images/samples.png" width="90%" height="90%">
 
 ## Download
-||||
+||Link 1|Link 2|
 | ------ | ------ | ------ |
 | MSD.zip (1.57GB) | [OneDrive](https://1drv.ms/u/s!Ao8h0xonX6XKa5HKfEqXQHr7qm4?e=STifJf) | [Baidu Disk](https://pan.baidu.com/s/13sgK92DcmAbj03HY7kkCPQ?pwd=02e8)|
+| good.zip (27.7MB) | [OneDrive](https://1drv.ms/u/s!Ao8h0xonX6XKcJ7zk0I80T6Bgis?e=9IrRaH) | - |
 | Visualiztion.zip (79.0MB) | [OneDrive](https://1drv.ms/u/s!Ao8h0xonX6XKcDD3wJjyvJzl_sE?e=yriUQ9) | [Baidu Disk](https://pan.baidu.com/s/107RYurRo_vS9rC46BuVmOQ?pwd=tc2v) |
 
-We also provide 20 extra non-defective images ([good.zip](https://1drv.ms/u/s!Ao8h0xonX6XKcJ7zk0I80T6Bgis?e=9IrRaH), 27.7MB) which can be used for unsupervised setting.<br/>
+good.zip: We also provide 20 extra non-defective images which can be used for unsupervised setting.<br/>
+Visualiztion.zip: This file is solely for visualization purposes, used to display the masks on the original images.
+
 ## Citation
 If you find this work is helpful in your research, please cite:
 ````
